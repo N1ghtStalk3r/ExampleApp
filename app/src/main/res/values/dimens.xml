@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_tem_horizontal_padding">8dp</dimen>
+    <dimen name="list_item_vertical_padding">16dp</dimen>
+    <dimen name="list_item_spacing">4dp</dimen>
+    <dimen name="layout_margin_horizontal">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="post_title_size">20sp</dimen>
+    <dimen name="post_title_top_margin">8dp</dimen>
+</resources>
